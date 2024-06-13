@@ -1,4 +1,5 @@
 # Local Development
+
 1. Create vitual env
 
 ```bash
@@ -20,5 +21,5 @@ pip3 install -r requirements.txt
 4. Run application
 
 ```bash
-uvicorn main:app --reload
+python3 scheduler.py
 ```

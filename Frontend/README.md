@@ -11,3 +11,17 @@ This template provides a fully setup web app that uses the following libraries a
 - ESLint
 - Prettier
 - Husky, Lintstaged, Commitizen
+
+# Local Development
+
+1. Install libraries
+
+```bash
+yarn
+```
+
+2. Start local development
+
+```bash
+yarn dev
+```
