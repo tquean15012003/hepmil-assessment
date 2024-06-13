@@ -1,0 +1,14 @@
+uvicorn
+fastapi[all]
+pydantic
+python-dotenv
+praw
+redis
+sqlalchemy
+psycopg2-binary
+
+schedule
+python-telegram-bot
+
+pandas
+openpyxl
